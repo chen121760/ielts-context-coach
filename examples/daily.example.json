@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "date": "2026-01-01",
+  "timezone": "Asia/Shanghai",
+  "source": "合成示例；非 App 采集、非真实学习记录",
+  "counts": {
+    "学习": 2,
+    "复习": 1,
+    "已标熟": 0
+  },
+  "lists": {
+    "学习": ["allocate", "evidence"],
+    "复习": ["decline"],
+    "已标熟": []
+  }
+}

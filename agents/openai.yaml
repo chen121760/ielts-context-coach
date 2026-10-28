@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思语境词汇陪练"
+  short_description: "每日词表分段翻译、错词间隔复测与跨日追踪，支持手机 AI 接力"
+  default_prompt: "使用 $ielts-context-coach 开始今天的词汇练习，读取当天词表并继续上次进度。"

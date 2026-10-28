@@ -1,0 +1,22 @@
+# Runtime archives belong outside the skill repository.
+/ielts-context-coach-data/
+/学习档案/
+**/progress.json
+**/.lock
+**/daily/
+**/exports/
+**/backups/
+**/imports/
+**/integrations/
+**/wordbook/
+*.zip
+
+# Local credentials and build output.
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.DS_Store
+.build/
